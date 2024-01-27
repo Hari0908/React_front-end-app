@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Edureka Aws fullstack app
+##  Aws fullstack app
 
-In the project directory, you can run:
+In the project directory, we can run:
 
 ### `yarn start`
 
